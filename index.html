@@ -1,0 +1,139 @@
+---
+layout: default
+category: "design"
+---
+
+<p class="sub-Cata-title">ABOUT</p>
+    Hansel born and raised in Hong Kong, graduated from RMIT’s Fine Art program in 2009 and the University of West England’s Electronic Communication Engineering program in 2023. He explores a variety of creative languages through mediums like painting, sound, and electronics. With over a decade of experience in visual art education, Hansel co-founded BiLiBaLa Art Studio in 2021 and dedicates himself to art creation and education.
+<br>
+<br>李振忠出生並成長於香港，於2009年畢業於皇家墨爾本理工大學的藝術課程，並於2023年畢業於西英格蘭大學的電子通訊工程課程。他透過繪畫、聲音和電子等多種媒介探索各種創作語言。李氏在視覺藝術教育領域有超過十年的經驗，於2021年共同創辦了BiLiBaLa藝術工作室，致力藝術創作及教育的工作。
+<br>
+<br>
+
+<p class="sub-Cata-title">EXHIBITION</p>
+
+    2023
+<br>
+
+    The Collectable Art Fair Hong Kong Arts Centre, Pao Galleries
+<br>
+
+    2012
+<br>
+
+    Curiouser, Joint exhibition, Hong Kong Arts Centre, White Tube
+<br>
+
+    2010
+<br>
+
+    I AM, a painting solo exhibition, Hong Kong Arts Centre, White Tube
+<br>
+
+    2010
+<br>
+
+    Art Habitat, a brand new experience of collecting and displaying art at home 2/F, Hong Kong Art Centre
+<br>
+
+    2009
+<br>
+
+    On and Beyond Hong Kong Arts Centre, Pao Galleries
+<br>
+
+    2006
+<br>
+
+    Action & Reaction Hong Kong Arts Centre, Pao Galleries
+<br>
+<br />
+
+<p class="sub-Cata-title">EDUCATION</p>
+
+    2022
+<br>
+
+    BEng (Hons)
+<br>
+
+    Electronic and Computer Engineering University of the West of England
+<br>
+
+<!--(co-presented with SHAPE VTC)-->
+    2009
+<br>
+
+    Bachelor of Arts (Fine Art), Major in Painting
+<br>
+
+    Royal Melbourne Institute of Technology University
+<br>
+<br>
+
+<!--(co-presented with Hong Kong Art School)-->
+<p class="sub-Cata-title">MEDIA COVERAGE</p>
+<a href="/MediaCoverage/index" target="_blank" rel="noopener noreferrer">details </a>
+
+
+<br>
+<br>
+
+
+<div class="home">
+
+    <!--
+        {% for post in paginator.posts%}
+        <div class="post postContent">
+            <div class="postDate">
+                <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+            </div>
+            <div class="postTag">
+                {{post.tag}}
+            </div>
+            <br>
+            <div class="postTitle">
+                <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+            </div>
+            <div class="postExt">
+                {{ post.content | strip_html | truncate:200}}
+            </div>
+        </div>
+
+        {% endfor %}
+        {% if paginator.total_pages > 1 %}
+        <nav class="pagination">
+            {% if paginator.previous_page %}
+            <a class="paginationLink" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+            {% endif %}
+
+            {% for page in (1..paginator.total_pages) %}
+            {% if page == paginator.page %}
+            <em class="paginationLink paginationLinkCurrent">{{ page }}</em>
+            {% elsif page == 1 %}
+            <a class="paginationLink" href="/">{{ page }}</a>
+            {% else %}
+            <a class="paginationLink" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+            {% endif %}
+            {% endfor %}
+
+            {% if paginator.next_page %}
+            <a class="paginationLink" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+            {% endif %}
+        </nav>
+        {% endif %}
+        <ul class="post-list">
+            {% for post in site.posts %}
+            <li>
+                <span class="post-meta-main">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                <h2>
+                <a class="post-link-main" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+            </li>
+            {% endfor %}
+        </ul>
+    -->
+
+</div>
+
