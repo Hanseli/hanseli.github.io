@@ -29,7 +29,7 @@ category: "design"
 <br><br>
 <a href="/lungtsunbridge/index">Somewhere Over The Lung Tsun Bridge, 2023 - 24</a>
 <br><br>
-<a href="/ydragon/index">藝影龍城・真人圖書館, 2022</a>
+<a href="/ydragon/index">Y-Dragon, 2022</a>
 <br><br>
 <a href="/ppd/index">Playful Public Design, 2019</a>
 <br><br>
