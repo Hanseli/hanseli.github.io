@@ -14,7 +14,8 @@ permalink: /newmedia/
 it helps to config in css center the gif
  -->
 
-
+<a href="/soundscape/index">Soundscape, 2025</a>
+<br><br>
 <a href="/peacefulReso/index">Peaceful Resonance, 2024</a>
 <br><br>
 <a href="https://youtu.be/e8uUyLjTpaA" target="_blank" rel="noopener noreferrer">In Search of The Lung Tsun Bridge, 2024</a>
