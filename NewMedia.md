@@ -18,8 +18,6 @@ it helps to config in css center the gif
 <br><br>
 <a href="/peacefulReso/index">Peaceful Resonance, 2024</a>
 <br><br>
-<a href="https://youtu.be/e8uUyLjTpaA" target="_blank" rel="noopener noreferrer">In Search of The Lung Tsun Bridge, 2024</a>
-<br><br>
 <a href="https://youtu.be/vFmjRZcC4WM" target="_blank" rel="noopener noreferrer">Ambient sound box, 2023</a>
 <br><br>
 <a href="https://youtube.com/shorts/eQD_QZgM-MU" target="_blank" rel="noopener noreferrer">Upcycle Parrot, 2023</a>
