@@ -24,7 +24,8 @@ category: "design"
 
 <p class = "Cata-title">Project</p>
 
-
+<a href="/kirin/index">AIRSIDE 《福運瑞獸慶典》, 2025</a>
+<br><br>
 <a href="/kcyaf/index">Kowloon City Youth Arts Festival, 2023 - 24</a>
 <br><br>
 <a href="/lungtsunbridge/index">Somewhere Over The Lung Tsun Bridge, 2023 - 24</a>
