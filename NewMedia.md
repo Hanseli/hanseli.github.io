@@ -1,6 +1,6 @@
 ---
 layout: default
-title: NewMedia
+title: Sound & Media
 permalink: /newmedia/
 #tagline: "Humanity is overrated."
 #category: "science"
