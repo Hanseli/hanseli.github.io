@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sound & Media
-permalink: /newmedia/
+permalink: /soundmedia/
 #tagline: "Humanity is overrated."
 #category: "science"
 ---
