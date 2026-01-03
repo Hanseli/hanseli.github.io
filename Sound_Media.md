@@ -14,9 +14,9 @@ permalink: /soundmedia/
 it helps to config in css center the gif
  -->
 
-<a href="/peacefulReso/index">靜石之息 The Whispering Breath of Stone (with Nutz Luk), 2025 </a>
+<a href="/peacefulReso/index">未竟舞曲 Still in/to Motion, 2025</a>
 <br><br>
-<a href="/peacefulReso/index">未竟舞曲 Still in/to Motion (with Nutz Luk), 2025</a>
+<a href="/peacefulReso/index">靜石之息 The Whispering Breath of Stone (with Nutz Luk), 2025 </a>
 <br><br>
 <a href="/peacefulReso/index">聲紋結晶 Crystallized Echoes - Porcelain (with Nutz Luk), 2025</a>
 <br><br>
@@ -29,11 +29,5 @@ it helps to config in css center the gif
 <a href="https://youtu.be/xqWMHsatwbY" target="_blank" rel="noopener noreferrer">Upcycle Speaker, 2022</a>
 
 
-
 <br><br>
-
-
-
-
-
 <br><br>
