@@ -14,6 +14,8 @@ permalink: /soundmedia/
 it helps to config in css center the gif
  -->
 
+<a href="/peacefulReso/index">聲紋結晶 - 白瓷、聲音裝置 Crystallized Echoes - Porcelain, sound installation , 2025</a>
+<br><br>
 <a href="/soundscape/index">Soundscape, 2025</a>
 <br><br>
 <a href="/peacefulReso/index">Peaceful Resonance, 2024</a>
