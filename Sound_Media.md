@@ -18,7 +18,7 @@ it helps to config in css center the gif
 <br><br>
 <a href="/peacefulReso/index">靜石之息 The Whispering Breath of Stone (with Nutz Luk), 2025 </a>
 <br><br>
-<a href="/peacefulReso/index">聲紋結晶 Crystallized Echoes - Porcelain (with Nutz Luk), 2025</a>
+<a href="/peacefulReso/index">聲紋結晶 Crystallized Echoes (with Nutz Luk), 2025</a>
 <br><br>
 <a href="/soundscape/index">聲景 Soundscape, 2025</a>
 <br><br>
