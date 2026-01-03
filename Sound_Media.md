@@ -14,11 +14,11 @@ permalink: /soundmedia/
 it helps to config in css center the gif
  -->
 
-<a href="/StillIntoMotion/index">未竟舞曲 Still in/to Motion, 2025</a>
+<a href="/StillIntoMot/index">未竟舞曲 Still in/to Motion, 2025</a>
 <br><br>
-<a href="/WBreathofStone/index">靜石之息 The Whispering Breath of Stone (with Nutz Luk), 2025 </a>
+<a href="/WBreathofSt/index">靜石之息 The Whispering Breath of Stone (with Nutz Luk), 2025 </a>
 <br><br>
-<a href="/CEchoes/index">聲紋結晶 Crystallized Echoes (with Nutz Luk), 2025</a>
+<a href="/CEch/index">聲紋結晶 Crystallized Echoes (with Nutz Luk), 2025</a>
 <br><br>
 <a href="/soundscape/index">聲景 Soundscape, 2025</a>
 <br><br>
