@@ -20,7 +20,7 @@ it helps to config in css center the gif
 <br><br>
 <a href="/CEchoes/index">聲紋結晶 Crystallized Echoes (with Nutz Luk), 2025</a>
 <br><br>
-<a href="/soundscape/index">聲景 Soundscape, 2025</a>
+<a href="/soundscape/index">聲景 Soundscape (with Nutz Luk), 2025</a>
 <br><br>
 <a href="/peacefulReso/index">寧靜共鳴 Peaceful Resonance, 2024</a>
 <br><br>
